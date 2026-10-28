@@ -1,0 +1,10 @@
+#BlueJ class context
+#Wed Oct 28 16:07:04 CST 2026
+comment0.target=Cliente
+comment1.params=nombre condicion
+comment1.target=Cliente(java.lang.String, java.lang.String)
+comment2.target=java.lang.String getNombre()
+comment3.target=java.lang.String getCondicion()
+comment4.target=boolean esNacional()
+comment5.target=java.lang.String toString()
+numComments=6
